@@ -1,3 +1,3 @@
 # GerenciamentoConfigSofware
 
-Aula de git.
+Aula de github.
